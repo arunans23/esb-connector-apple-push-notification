@@ -156,6 +156,12 @@
             <version>2.3.3</version>
         </dependency>
     </dependencies>
+    <scm>
+        <connection>scm:git:https://github.com/wso2-extensions/esb-connector-apple-push-notification.git</connection>
+        <url>https://github.com/wso2-extensions/esb-connector-apple-push-notification.git</url>
+        <developerConnection>scm:git:https://github.com/wso2-extensions/esb-connector-apple-push-notification</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
     <build>
         <plugins>
             <plugin>
