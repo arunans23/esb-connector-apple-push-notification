@@ -63,7 +63,7 @@ import org.wso2.carbon.mediation.library.stub.upload.MediationLibraryUploaderStu
 public class PushNotificationIntegrationTest extends ESBIntegrationTest {
 
     private static final String PACKAGE_NAME = "org.wso2.carbon.connector";
-    private static final String CONNECTOR_NAME = "apns";
+    private static final String CONNECTOR_NAME = "apns-connector-1.0.1-SNAPSHOT";
 
     private static final float SLEEP_TIMER_PROGRESSION_FACTOR = 0.5f;
 
