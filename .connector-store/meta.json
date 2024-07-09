@@ -1,0 +1,22 @@
+{
+    "name": "Apple Push Notification",
+    "owner": "WSO2",
+    "category": "Productivity Tools",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/APNs+Connector",
+    "description": "The Apple Push Notification service connector allows you to send push notifications to iOS devices using Apple Push Notification service (APNs). APNs is a robust and highly effective service to deliver notifications to iOS and OS X devices. Fig. 1 illustrates the components which participate in sending a notification to a device.",
+    "status": "Unsupported",
+    "labels": [
+        "connector"
+    ],
+    "releases": [
+        {
+            "tagName": "v1.0.0",
+            "products": [
+                "ESB 5.0.0",
+                "ESB 4.9.0",
+                "ESB 4.8.1"
+            ],
+            "isHidden": false
+        }
+    ]
+}
